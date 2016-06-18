@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MaximumKilocity.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2FDA340A-3DA5-42AD-B29E-C31C0247B303}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MaximumKilocity.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MaximumKilocityEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A699F51A-AED3-4452-BE5C-5D2A49D585A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MaximumKilocity">
+      <UniqueIdentifier>{5FE94DF8-759F-49B4-B675-46842D0D248D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MaximumKilocity\MaximumKilocity.Build.cs">
+      <Filter>Source\MaximumKilocity</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MaximumKilocity\MaximumKilocity.cpp">
+      <Filter>Source\MaximumKilocity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MaximumKilocity\MaximumKilocity.h">
+      <Filter>Source\MaximumKilocity</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MaximumKilocity\MaximumKilocityCharacter.cpp">
+      <Filter>Source\MaximumKilocity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MaximumKilocity\MaximumKilocityCharacter.h">
+      <Filter>Source\MaximumKilocity</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MaximumKilocity\MaximumKilocityGameMode.cpp">
+      <Filter>Source\MaximumKilocity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MaximumKilocity\MaximumKilocityGameMode.h">
+      <Filter>Source\MaximumKilocity</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\MaximumKilocity\Bullet">
+      <UniqueIdentifier>{2b599c5b-9b94-4012-9a06-e2729dd161a6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MaximumKilocity\BulletActorComponent.h">
+      <Filter>Source\MaximumKilocity\Bullet</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MaximumKilocity\BulletActorComponent.cpp">
+      <Filter>Source\MaximumKilocity\Bullet</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

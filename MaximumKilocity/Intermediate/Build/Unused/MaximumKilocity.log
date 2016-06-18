@@ -1,0 +1,16 @@
+﻿  Creating makefile for MaximumKilocityEditor (game project files are newer)
+  Parsing headers for MaximumKilocityEditor
+    Running UnrealHeaderTool "C:\Users\Niraj\Desktop\GitRepos\max\MaximumKilocity\MaximumKilocity.uproject" "C:\Users\Niraj\Desktop\GitRepos\max\MaximumKilocity\Intermediate\Build\Win64\MaximumKilocityEditor\Development\MaximumKilocityEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MaximumKilocityEditor in 3.6126736 seconds
+  Performing 9 actions (4 in parallel)
+  [3/9] Resource ModuleVersionResource.rc.inl
+  [2/9] Resource PCLaunch.rc
+  PCH.MaximumKilocity.h.cpp
+  BulletActorComponent.cpp
+  MaximumKilocityCharacter.cpp
+  MaximumKilocityGameMode.cpp
+  MaximumKilocity.cpp
+  MaximumKilocity.generated.cpp
+  [9/9] Link UE4Editor-MaximumKilocity.dll
+     Creating library C:\Users\Niraj\Desktop\GitRepos\max\MaximumKilocity\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MaximumKilocity.lib and object C:\Users\Niraj\Desktop\GitRepos\max\MaximumKilocity\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MaximumKilocity.exp
+  Total build time: 29.02 seconds

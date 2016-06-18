@@ -1,0 +1,27 @@
+﻿Log file open, 06/17/16 23:43:40
+LogInit:Display: Running engine for game: MaximumKilocity
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-276893478) SRandInit(-276893477).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.291041
+LogInit:Warning: Incompatible or missing module: UE4Editor-MaximumKilocity.dll
+Running C:/Program Files (x86)/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe MaximumKilocity Development Win64 -project="C:/Users/Niraj/Desktop/GitRepos/max/MaximumKilocity/MaximumKilocity.uproject" -editorrecompile -progress -noubtmakefiles -NoHotReloadFromIDE
+LogInit:Warning: Still incompatible or missing module: UE4Editor-MaximumKilocity.dll
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (15)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+LogModuleManager: Shutting down and abandoning module Landscape (12)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+LogModuleManager: Shutting down and abandoning module Renderer (7)
+LogModuleManager: Shutting down and abandoning module Engine (6)
+LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+LogModuleManager: Shutting down and abandoning module PakFile (1)
+LogExit: Exiting.
+Log file closed, 06/17/16 23:44:02
